@@ -26,6 +26,14 @@
 
     #### 4级标题
 
+##### 5级标题
+
+    ##### 5级标题
+
+###### 6级标题
+
+    ###### 6级标题
+
 **这是粗体**
 
     **这是粗体**
@@ -66,6 +74,20 @@
 
     `单行代码`
 
+```
+多行代码
+多行代码
+多行代码
+```
+
+    ```
+    多行代码
+    多行代码
+    多行代码
+    ```
+
+### 超链接
+
 [我的git](https://github.com/walkthecat/testgit)
 
     [我的git](https://github.com/walkthecat/testgit)
@@ -74,17 +96,6 @@
 
     [我的git][1](https://github.com/walkthecat/testgit)   [2](https://github.com/walkthecat/testgit)  [3](https://github.com/walkthecat/testgit)
 
-行内公式 $\sqrt{3x-1}+(1+x)^2$，
-行公式:
-$$
-\sqrt{3x-1}+(1+x)^2
-$$
-
-    行内公式$\sqrt{3x-1}+(1+x)^2$，
-    行公式:
-    $$
-    \sqrt{3x-1}+(1+x)^2
-    $$
 
 ### 插入图片
 
