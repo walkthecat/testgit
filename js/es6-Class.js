@@ -10,5 +10,5 @@ class Test {
 }
 
 (() => {
-    (new Test()).toString();
+    console.log((new Test(1, 2)).toString());
 })()
